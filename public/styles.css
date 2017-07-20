@@ -1,0 +1,33 @@
+*{
+  box-sizing: border-box;
+}
+.background{
+    background: yellowgreen;
+}
+.headers{
+    text-align: center;
+    color: black;
+}
+.links{
+    padding: 10px 15px 0px 15px;
+    font-size: 2em;
+}
+.userForm{
+    text-align: center;
+    padding-top: 30px;
+}
+.inputs{
+    height: 20px;
+    width: 180px;
+}
+button{
+    background-color: black;
+    color: red;
+    
+}
+
+.greeting{
+    text-align: center;
+    color: red;
+    padding-top: 50px;
+}
